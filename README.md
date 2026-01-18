@@ -58,3 +58,8 @@ All implementation steps are available in the notebook:
 4. The final cells demonstrate inference using the fine-tuned model.
 
 
+## Example Output
+
+**Input:** What is the difference between generative and discriminative models?  
+**Model Output:** Generative models learn the joint distribution of data, while discriminative models focus on separating decision boundaries between classes.
+
