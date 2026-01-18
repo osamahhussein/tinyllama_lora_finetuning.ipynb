@@ -43,8 +43,9 @@ The dataset covers topics such as:
 
 ---
 
-Open directly in Colab:
-https://colab.research.google.com/github/osamahussein/llm-finetuning-project/blob/main/llm_finetuning_project.ipynb
+[Open directly in Colab:
+https://colab.research.google.com/github/osamahussein/llm-finetuning-project/blob/main/llm_finetuning_project.ipynb](https://colab.research.google.com/github/osamahussein/ai-finetuning-project/blob/main/llm_finetuning_project.ipynb
+)
 
 
 ## Notebook
